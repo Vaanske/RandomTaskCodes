@@ -1,3 +1,3 @@
 # RandomTaskCodes
 
-Repository of some of my codesin case my PC dies or I'm no different machine
+Repository of some of my codes in case my PC dies or I'm on different machine.
